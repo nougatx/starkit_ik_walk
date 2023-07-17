@@ -59,7 +59,7 @@ attribute_ranges = {
     "turnGain": (-0.5, 0.5),
     "freq": (0.1, 5.0),
     "supportPhaseRatio": (0.0, 1.0),
-    "footYOffset": (-0.2, 0.2),
+    "footYOffset": (-0.029, 0.083),
     "riseGain": (0.0, 0.1),
     "swingGain": (0.0, 0.1),
     "swingRollGain": (-1.0, 1.0),
@@ -70,11 +70,11 @@ attribute_ranges = {
     # "riseDownVel": (0.0, 5.0),
     "swingPause": (0.0, 0.5),
     "swingVel": (0.0, 5.0),
-    "trunkXOffset": (-0.2, 0.2),
-    "trunkYOffset": (-0.2, 0.2),
-    "trunkZOffset": (-0.2, 0.2),
-    "trunkPitch": (-1.0, 1.0),
-    "trunkRoll": (-1.0, 1.0)
+    "trunkXOffset": (-0.052, 0.108),
+    "trunkYOffset": (-0.060, 0.060),
+    "trunkZOffset": (-0.003, 0.2),
+    "trunkPitch": (-0.301, 0.441),
+    "trunkRoll": (-0.376, 0.379)
 }
 
 def update_value(param_name, value):
