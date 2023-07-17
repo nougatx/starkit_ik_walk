@@ -72,7 +72,7 @@ attribute_ranges = {
     "swingVel": (0.0, 5.0),
     "trunkXOffset": (-0.052, 0.108),
     "trunkYOffset": (-0.060, 0.060),
-    "trunkZOffset": (-0.003, 0.2),
+    "trunkZOffset": (0.003, 0.2),
     "trunkPitch": (-0.301, 0.441),
     "trunkRoll": (-0.376, 0.379)
 }
