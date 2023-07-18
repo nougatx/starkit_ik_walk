@@ -26,5 +26,6 @@ DirectionalLight {
   intensity 3
 }
 SAHRV74Robocup {
+  controller "keypoint"
   translation 0 0 0.4
 }
